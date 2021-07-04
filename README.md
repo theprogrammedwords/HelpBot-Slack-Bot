@@ -2,7 +2,7 @@
 
 > A simple bot which pushes you forward to do more with the help of quotes, affirmations and advices. 
 
-Commands That work : 
+> Commands That work : 
 ###### help
 ###### quotes
 ###### advice
