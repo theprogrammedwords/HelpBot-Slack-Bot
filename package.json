@@ -1,0 +1,16 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "A CatBot which boosts your mood",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ashish Prasad",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "i": "^0.3.6",
+    "slackbots": "^1.2.0"
+  }
+}
