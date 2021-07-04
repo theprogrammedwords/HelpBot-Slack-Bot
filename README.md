@@ -21,6 +21,7 @@
 [https://github.com/mishk0/slack-bot-api](https://github.com/mishk0/slack-bot-api)
 
 
+<img src = "https://github.com/theprogrammedwords/HelpBot-Slack-Bot-/blob/main/Screenshot%202021-07-05%20at%2012.19.37%20AM.png">
 
 ## Quick Start
 
