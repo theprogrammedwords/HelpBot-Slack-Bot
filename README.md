@@ -22,9 +22,6 @@
 
 
 
-<img src="https://github.com/theprogrammedwords/HelpBot-Slack-Bot-/blob/main/Screenshot%202021-07-05%20at%2012.15.52%20AM.png">
-
-
 ## Quick Start
 
 ``` bash
