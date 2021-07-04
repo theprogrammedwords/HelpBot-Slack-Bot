@@ -36,7 +36,6 @@ npm start
 
 ### Author
 
-Ashish Prasad
 [Ashish Prasad](https://www.polywork.com/ashishprasad)
 
 ### Version
