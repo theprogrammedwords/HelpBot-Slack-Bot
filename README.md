@@ -1,4 +1,4 @@
-# HelpBot-Slack-Bot
+# HelpBot-Slack-Bot.
 
 > A simple bot which pushes you forward to do more with the help of quotes, affirmations and advices. 
 
